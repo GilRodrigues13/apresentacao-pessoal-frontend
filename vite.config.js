@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/GilRodrigues13/apresentacao-pessoal-frontend.git'
+  base: '/apresentacao-pessoal-frontend/'
 })
